@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
 <oefening title = "FAQ">
-    
 <vraag>
-        
 <vraagstelling>What's the need for yet another dataset? </vraagstelling>
-        
 <antwoord>Studies on regional development benefit greatly from additional data that allow for comparative research. Most of the existing findings in intra-regional issues are based on extensive data collections available for the U.S. states or sub-divisions of European countries. But would these findings hold true for other countries that are vastly different from the US and Western Europe in terms of political, social, and economic development?
 The RoR dataset is my humble contribution to the growing field of regional political economy, focusing on developing and transition countries.</antwoord>
 </vraag>
-    
 <vraag>
-        
 <vraagstelling>Where do the data come from? </vraagstelling>
-        
 <antwoord>The RoR dataset includes official statistics from:
 Federal Statistical Service of Russia (Rosstat)
 Ministry of Interior of Russia
@@ -27,35 +20,20 @@ Ministry for Civil Defense, Emergencies, and Elimination of Consequences of Natu
 Ministry for Regional Development of Russia
 Russian Climate Archive</antwoord>
 </vraag>
-    
 <vraag>
-        
 <vraagstelling>Can't one just download the data from the Russian government or something?</vraagstelling>
-        
 <antwoord>While a lot of statistical information is freely available from the government agencies listed above, it is rarely available in English. Regional statistics never is. Methodology is usually scarce and requires at least some basic knowledge of Russian laws. Methodology for some indicators has been changing over the years - one often needs to be able to trace these changes before using the data. In the RoR dataset, all these issues are resolved, values are standardized, cleaned up, and fully comparable.</antwoord> 
-    
 </vraag>
-
+<vraag>
 <vraagstelling>How do you handle monetary terms?</vraagstelling>
-        
 <antwoord>One of the most common hassles in research on Russia is excessive inflation rates, especially in the early 1990s. To ensure the data consistency over time and to make international comparisons possible, all monetary terms are transformed into constant US dollars. If you are interested in the original data (at nominal prices, in Russian rubles), just email me at irina_v.mirkina[at]nek.lu.se or leave a comment below.</antwoord>
-    
 </vraag>
-    
 <vraag>
-        
 <vraagstelling>What is the geographic coverage?</vraagstelling>
-        
-<antwoord>The dataset covers 82 federal subjects of Russia, including 46 oblasts (Russian: область, region), 21 republics (республика), 9 krais (край, territory), 3 autonomous okrugs (автономный округ, autonomous area), 1 autonomous oblast (автономная область, autonomous region), and 2 cities of federal importance. For the data collection purposes, Nenets Autonomous Okrug is treated as part of Arkhangelsk Oblast. The Republic of Crimea and the city of Sevastopol are not included and will not be included in the dataset and any future releases. For subnational data for Ukraine, Belarus, or Moldova, email me at irina_v.mirkina[at]nek.lu.se. </antwoord>
-    
+<antwoord>The dataset covers 82 federal subjects of Russia, including 46 oblasts (Russian: РѕР±Р»Р°СЃС‚СЊ, region), 21 republics (СЂРµСЃРїСѓР±Р»РёРєР°), 9 krais (РєСЂР°Р№, territory), 3 autonomous okrugs (Р°РІС‚РѕРЅРѕРјРЅС‹Р№ РѕРєСЂСѓРі, autonomous area), 1 autonomous oblast (Р°РІС‚РѕРЅРѕРјРЅР°СЏ РѕР±Р»Р°СЃС‚СЊ, autonomous region), and 2 cities of federal importance. For the data collection purposes, Nenets Autonomous Okrug is treated as part of Arkhangelsk Oblast. The Republic of Crimea and the city of Sevastopol are not included and will not be included in the dataset and any future releases. For subnational data for Ukraine, Belarus, or Moldova, email me at irina_v.mirkina[at]nek.lu.se. </antwoord>
 </vraag>
-    
 <vraag>
-        
 <vraagstelling>Can I see some examples of this dataset used? Do you have a manual?</vraagstelling>
-        
 <antwoord> ICPSR captures publications that cite this dataset - you can see <a target="_blank" href="http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/35355#pubs">the list here</a>. The manual is currently under review - email me at irina_v.mirkina[at]nek.lu.se if you'd like to get a copy. </antwoord> 
-    
 </vraag>
-
 </oefening>
